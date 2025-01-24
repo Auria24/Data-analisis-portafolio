@@ -9,3 +9,5 @@ Mi cv en [pdf] (file:///C:/Users/ILMAS/OneDrive/kit%20de%20empleabilidad/mi%20cu
 Este es un repositorío para mostrar mis abilidades y proyectos como analista de datos
 
 ## tabla de contenidos
+- [Abaut]()
+- [Portafolio de proyectos]
