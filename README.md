@@ -4,7 +4,7 @@
 
 Soy lienciada en administración por ULA, con conocimientos de programación adquieridos en bootcamp de Triple ten latam, en base a los diferntes proyectos obtuve conocimientos en Python, SQL, Tableau. con progreso en reprecentación grafíca, atravez de las librerías seaborn y matplotlib.
 
-Mi cv en [pdf] (https://1drv.ms/b/c/0b17036db48ed9cc/ET_o_0P9f_1HjmNL9da10GAB0k6wlpoE-59zPM7SHMuYrA?e=Y7jDNe)
+Mi cv en [pdf] (https://1drv.ms/b/c/0b17036db48ed9cc/EcK4MHb8ut5Aii_goP_Os3sBV3oJlWexjYtXW-Szt463FQ?e=yQyhMS)
 
 Este es un repositorío para mostrar mis abilidades y proyectos como analista de datos
 
