@@ -31,3 +31,10 @@ Este es un repositorío para mostrar mis abilidades y proyectos como analista de
        - [documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
     - [dasboard de call center en power bi](https://app.powerbi.com/view?r=eyJrIjoiNjM2MmEzYzItMTVmNC00NjFiLTkzNzgtNjNkZWNmMzM2N2E2IiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9)
        - [documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
+     
+  ---
+  ## 📬 Contacto  
+Si tienes alguna pregunta o comentario sobre mis proyectos, ¡no dudes en contactarme!  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilmasy_24_887@hotmail..com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auria-reyes/)
