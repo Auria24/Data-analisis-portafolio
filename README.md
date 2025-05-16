@@ -14,10 +14,10 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
 
     - [Preprocesamiento simple de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-simple-ventas)
     
-    -- Una empresa de comercio electrónico, Store 1, recientemente comenzó a recopilar datos sobre sus clientes. El objetivo final de Store 1 es comprender mejor el comportamiento de sus clientes y tomar         
+     Una empresa de comercio electrónico, Store 1, recientemente comenzó a recopilar datos sobre sus clientes. El objetivo final de Store 1 es comprender mejor el comportamiento de sus clientes y tomar         
        decisiones basadas en datos para mejorar su experiencia online.
        Como parte del equipo de análisis, tu primera tarea es evaluar la calidad de una muestra de datos recopilados y prepararla para futuros análisis.
---
+
     - [Preprosesamiento medio de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-medio-datos)
       
     -- análisis de datos para extraer información valiosa y tomar decisiones basadas en ellos. Esto implica diferentes etapas, como la descripción general de los datos, el preprocesamiento y la prueba de 
@@ -30,8 +30,8 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
    el comportamiento de los usuarios y las usuarias de estas dos ciudades.
 --
     - [Filtro de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/filtro-datos)
-    --- Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
-  ---
+    -- Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
+  --
     - [Pronostico y prediciones](https://github.com/Auria24/data-analisis-portafolio/tree/main/pronosticos-predicciones)
     --
     - [Software](https://github.com/Auria24/data-analisis-portafolio/tree/main/software)
