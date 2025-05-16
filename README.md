@@ -46,13 +46,16 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
     - [Analisis de eventos](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis_eventos)
     --
     - [Analisis estadistico](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-estadistico)
+ 
     --
     - [Tableau](https://github.com/Auria24/data-analisis-portafolio/tree/main/tableau)
         (https://public.tableau.com/app/profile/rosa.auria.reyes.salinas/viz/dasboardtrendingbytime/Dashboard12)
-        --
+ --
+
+
     - [Integracion de conocimientos](https://github.com/Auria24/data-analisis-portafolio/tree/main/integracion-conocimientos)
         (https://public.tableau.com/views/telecomunicaciones/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
-        --
+  --
     - [Mi primer dashboard con apoyo en power bi, en ventas](https://app.powerbi.com/view?r=eyJrIjoiMjM5ODViYWMtMTI3Yi00NzQ3LWJmOGItMzVmNWE3N2JmNzBhIiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9) 
        - [Documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
        --
