@@ -30,7 +30,8 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
    el comportamiento de los usuarios y las usuarias de estas dos ciudades.
 --
     - [Filtro de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/filtro-datos)
-    --
+    --- Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
+  ---
     - [Pronostico y prediciones](https://github.com/Auria24/data-analisis-portafolio/tree/main/pronosticos-predicciones)
     --
     - [Software](https://github.com/Auria24/data-analisis-portafolio/tree/main/software)
