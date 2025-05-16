@@ -20,7 +20,7 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
 
     - [Preprosesamiento medio de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-medio-datos)
       
-    -- análisis de datos para extraer información valiosa y tomar decisiones basadas en ellos. Esto implica diferentes etapas, como la descripción general de los datos, el preprocesamiento y la prueba de 
+     análisis de datos para extraer información valiosa y tomar decisiones basadas en ellos. Esto implica diferentes etapas, como la descripción general de los datos, el preprocesamiento y la prueba de 
       hipótesis.
 
   Siempre que investigamos, necesitamos formular hipótesis que después podamos probar. A veces aceptamos estas hipótesis; otras veces, las rechazamos. Para tomar las decisiones correctas, una empresa debe ser 
@@ -28,10 +28,10 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
 
    En este proyecto, compararás las preferencias musicales de las ciudades de Springfield y Shelbyville. Estudiarás datos reales de transmisión de música online para probar la hipótesis a continuación y comparar 
    el comportamiento de los usuarios y las usuarias de estas dos ciudades.
---
+
     - [Filtro de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/filtro-datos)
-    -- Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
-  --
+ Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
+  
     - [Pronostico y prediciones](https://github.com/Auria24/data-analisis-portafolio/tree/main/pronosticos-predicciones)
     --
     - [Software](https://github.com/Auria24/data-analisis-portafolio/tree/main/software)
