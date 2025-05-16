@@ -13,9 +13,10 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
 - [Portafolio de proyectos]()
 
     - [Preprocesamiento simple de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-simple-ventas)
+    - 
     -- Una empresa de comercio electrónico, Store 1, recientemente comenzó a recopilar datos sobre sus clientes. El objetivo final de Store 1 es comprender mejor el comportamiento de sus clientes y tomar decisiones basadas en datos para mejorar su experiencia online.
-
 Como parte del equipo de análisis, tu primera tarea es evaluar la calidad de una muestra de datos recopilados y prepararla para futuros análisis.
+--
     - [Preprosesamiento medio de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-medio-datos)
     -- análisis de datos para extraer información valiosa y tomar decisiones basadas en ellos. Esto implica diferentes etapas, como la descripción general de los datos, el preprocesamiento y la prueba de hipótesis.
 
