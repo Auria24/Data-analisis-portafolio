@@ -34,36 +34,53 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
      Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
   
     - [Pronostico y prediciones](https://github.com/Auria24/data-analisis-portafolio/tree/main/pronosticos-predicciones)
-    --
+      
+     Desarrollé un modelo de regresión lineal para predecir los ingresos mensuales de un gimnasio, utilizando datos históricos de membresías, asistencia de clientes, promociones y temporadas. El objetivo fue ayudar en la planificación financiera y optimización de campañas de marketing.
+    Aplicación de metodos regresion para la obtencion de frecuencias relativas.
+  
     - [Software](https://github.com/Auria24/data-analisis-portafolio/tree/main/software)
-    --
+      
+    Desarrollo de aplicasion interactiva para obtener informes hacerca de estadisticas de compra en veiculos.
+  
     - [Metricas embudos y cojortes](https://github.com/Auria24/data-analisis-portafolio/tree/main/metricas-embudos-cohortes1)
-    --
+      
+    proyecto de análisis de ventas con el objetivo de mejorar la conversión de clientes y aumentar la retención en una tienda de productos digitales. Utilizacion métricas clave, embudos de conversión y análisis de cohortes para identificar puntos críticos del proceso de compra y segmentar el comportamiento de los usuarios a lo largo del tiempo.
+  
     - [Prueva A/B](https://github.com/Auria24/data-analisis-portafolio/tree/main/prueva-test-AB)
-    --
+      
+    ejecucusión una prueba A/B para evaluar el impacto de diferentes estrategias de precios y presentación de productos en la tasa de conversión de una tienda en línea.
+  
     - [Analisis SQL](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-SQL)
-    --
+      
+    análisis comparativo de la rentabilidad de varias compañías de taxis en función de variables operativas y condiciones climatológicas (lluvia, temperatura, humedad), con el objetivo de identificar patrones que afecten la eficiencia y el ingreso promedio por servicio.
+  utilizando extración de datos y generacion de tablas con SQL
+  
     - [Videojuegos analisis de ventas](https://github.com/Auria24/data-analisis-portafolio/tree/main/videojuegos-analisis-ventas)
-    --
+
+      
     - [Analisis de eventos](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis_eventos)
-    --
+
+      
     - [Analisis estadistico](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-estadistico)
  
-    --
+
     - [Tableau](https://github.com/Auria24/data-analisis-portafolio/tree/main/tableau)
         (https://public.tableau.com/app/profile/rosa.auria.reyes.salinas/viz/dasboardtrendingbytime/Dashboard12)
- --
+      
 
 
     - [Integracion de conocimientos](https://github.com/Auria24/data-analisis-portafolio/tree/main/integracion-conocimientos)
         (https://public.tableau.com/views/telecomunicaciones/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
-  --
+
+    
     - [Mi primer dashboard con apoyo en power bi, en ventas](https://app.powerbi.com/view?r=eyJrIjoiMjM5ODViYWMtMTI3Yi00NzQ3LWJmOGItMzVmNWE3N2JmNzBhIiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9) 
        - [Documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
-       --
+
+    
     - [Dasboard de call center en power bi](https://app.powerbi.com/view?r=eyJrIjoiNjM2MmEzYzItMTVmNC00NjFiLTkzNzgtNjNkZWNmMzM2N2E2IiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9)
        - [Documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
-       --
+
+      
 
 ---
 ## 🛠️ Herramientas y Tecnologías Utilizadas
