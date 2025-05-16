@@ -13,24 +13,27 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
 - [Portafolio de proyectos]()
 
     - [Preprocesamiento simple de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-simple-ventas)
+    -- Una empresa de comercio electrónico, Store 1, recientemente comenzó a recopilar datos sobre sus clientes. El objetivo final de Store 1 es comprender mejor el comportamiento de sus clientes y tomar decisiones basadas en datos para mejorar su experiencia online.
+
+Como parte del equipo de análisis, tu primera tarea es evaluar la calidad de una muestra de datos recopilados y prepararla para futuros análisis.
     - [Preprosesamiento medio de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/preprosesamiento-medio-datos)
-    - [filtro de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/filtro-datos)
-    - [pronostico y prediciones](https://github.com/Auria24/data-analisis-portafolio/tree/main/pronosticos-predicciones)
-    - [software](https://github.com/Auria24/data-analisis-portafolio/tree/main/software)
-    - [metricas embudos y cojortes](https://github.com/Auria24/data-analisis-portafolio/tree/main/metricas-embudos-cohortes1)
-    - [prueva A/B](https://github.com/Auria24/data-analisis-portafolio/tree/main/prueva-test-AB)
-    - [analisis SQL](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-SQL)
-    - [videojuegos analisis de ventas](https://github.com/Auria24/data-analisis-portafolio/tree/main/videojuegos-analisis-ventas)
-    - [analisis de eventos](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis_eventos)
-    - [analisis estadistico](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-estadistico)
-    - [tableau](https://github.com/Auria24/data-analisis-portafolio/tree/main/tableau)
+    - [Filtro de datos](https://github.com/Auria24/data-analisis-portafolio/tree/main/filtro-datos)
+    - [Pronostico y prediciones](https://github.com/Auria24/data-analisis-portafolio/tree/main/pronosticos-predicciones)
+    - [Software](https://github.com/Auria24/data-analisis-portafolio/tree/main/software)
+    - [Metricas embudos y cojortes](https://github.com/Auria24/data-analisis-portafolio/tree/main/metricas-embudos-cohortes1)
+    - [Prueva A/B](https://github.com/Auria24/data-analisis-portafolio/tree/main/prueva-test-AB)
+    - [Analisis SQL](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-SQL)
+    - [Videojuegos analisis de ventas](https://github.com/Auria24/data-analisis-portafolio/tree/main/videojuegos-analisis-ventas)
+    - [Analisis de eventos](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis_eventos)
+    - [Analisis estadistico](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-estadistico)
+    - [Tableau](https://github.com/Auria24/data-analisis-portafolio/tree/main/tableau)
         (https://public.tableau.com/app/profile/rosa.auria.reyes.salinas/viz/dasboardtrendingbytime/Dashboard12)
-    - [integracion de conocimientos](https://github.com/Auria24/data-analisis-portafolio/tree/main/integracion-conocimientos)
+    - [Integracion de conocimientos](https://github.com/Auria24/data-analisis-portafolio/tree/main/integracion-conocimientos)
         (https://public.tableau.com/views/telecomunicaciones/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
-    - [mi primer dashboard con apoyo en power bi, en ventas](https://app.powerbi.com/view?r=eyJrIjoiMjM5ODViYWMtMTI3Yi00NzQ3LWJmOGItMzVmNWE3N2JmNzBhIiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9) 
-       - [documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
-    - [dasboard de call center en power bi](https://app.powerbi.com/view?r=eyJrIjoiNjM2MmEzYzItMTVmNC00NjFiLTkzNzgtNjNkZWNmMzM2N2E2IiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9)
-       - [documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
+    - [Mi primer dashboard con apoyo en power bi, en ventas](https://app.powerbi.com/view?r=eyJrIjoiMjM5ODViYWMtMTI3Yi00NzQ3LWJmOGItMzVmNWE3N2JmNzBhIiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9) 
+       - [Documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
+    - [Dasboard de call center en power bi](https://app.powerbi.com/view?r=eyJrIjoiNjM2MmEzYzItMTVmNC00NjFiLTkzNzgtNjNkZWNmMzM2N2E2IiwidCI6IjBhNWNiMWFkLTE4MDMtNDlhMi1hNzg5LWQxMzZkYjAxMTVjYiJ9)
+       - [Documentacion](https://github.com/Auria24/data-analisis-portafolio/tree/main/power-bi)
 
 ---
 ## 🛠️ Herramientas y Tecnologías Utilizadas
