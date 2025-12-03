@@ -61,10 +61,11 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
       
     - [Analisis de eventos](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis_eventos)
 
-    Se Analiza el comportamiento de interacciones de los usuarios en una plataforma de compras para observar el comportamiento de los usuarios realizando los diferentes pasos y cual es la cnatidad de usuarios que llegana a concluir en comprar.
+    Se Analiza el comportamiento de interacciones de los usuarios en una plataforma de compras para observar el comportamiento de los usuarios realizando los diferentes pasos y cual es la cnatidad de usuarios que llegana a concluir en comprar.git
       
     - [Analisis estadistico](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-estadistico)
- 
+
+     Se analizan dos planes tarifarios de una compania telefonica en diferentes regiones, al obtener los resultados, se visualiza que los ingresos son muy similares pero con diferente cantidad de usuarios, obtenemos que hay difencia significativa de usuarios en una region en partiular.
 
     - [Tableau](https://github.com/Auria24/data-analisis-portafolio/tree/main/tableau)
         (https://public.tableau.com/app/profile/rosa.auria.reyes.salinas/viz/dasboardtrendingbytime/Dashboard12)
