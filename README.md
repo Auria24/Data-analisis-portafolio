@@ -56,10 +56,12 @@ Este es un repositorío para mostrar mis habilidades y proyectos como analista d
   utilizando extración de datos y generacion de tablas con SQL
   
     - [Videojuegos analisis de ventas](https://github.com/Auria24/data-analisis-portafolio/tree/main/videojuegos-analisis-ventas)
-    se gestiona un analisis de los diferentes videojuegos, con las plataformas y regiones para saber el porcenntaje de ventas. La plataforma mayoritariamente rentable deacuedo al analisis anterior es ps2 con 1255.77 en ventas totales; seguidad de X360, PS3, Wii y DS que cuentan con menos de 1000 millones en ventas totales. por otro lado podemos ver que la ps4 dio mas rentabilidad en su lapso de vida teniendo como sus mejores años el 2014 y 2015.
+
+    Se gestiona un análisis de los diferentes videojuegos, con las plataformas y regiones para saber el porcenntaje de ventas. La plataforma mayoritariamente rentable deacuedo al analisis anterior es ps2 con 1255.77 en ventas totales; seguidad de X360, PS3, Wii y DS que cuentan con menos de 1000 millones en ventas totales. por otro lado podemos ver que la ps4 dio mas rentabilidad en su lapso de vida teniendo como sus mejores años el 2014 y 2015.
       
     - [Analisis de eventos](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis_eventos)
 
+    Se Analiza el comportamiento de interacciones de los usuarios en una plataforma de compras para observar el comportamiento de los usuarios realizando los diferentes pasos y cual es la cnatidad de usuarios que llegana a concluir en comprar.
       
     - [Analisis estadistico](https://github.com/Auria24/data-analisis-portafolio/tree/main/analisis-estadistico)
  
